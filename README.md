@@ -29,8 +29,8 @@ TestSuitMedia is an Android application developed to implement a case study in m
 - **Kotlin**: The programming language used for application development.
 - **Retrofit**: A library for making HTTP requests and managing REST APIs.
 - **Room**: A library to efficiently manage SQLite databases in a structured way.
-- **ViewModel**: A component from Jetpack to manage UI-related data in a lifecycle-conscious way.
-  **Pager**: A component for handling pagination of data in the UI.
+- **ViewModel**: A component to manage UI-related data in a lifecycle-conscious way.
+- **Pager**: A component for handling pagination of data in the UI.
 - **Remote Mediator**: A component to mediate between local and remote data sources, ensuring the UI always has the latest data.
 
 ## Project Structure
